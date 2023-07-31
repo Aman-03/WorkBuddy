@@ -1,4 +1,8 @@
-# WorkBuddy
+# WorkBuddy:
+
+A secure and comprehensive platform with authentication, HelpDesk support, employee profiles, leave management, and dynamic department allocation for efficient HR operations.
+
+[Demo](https://hrms-workbuddy.netlify.app/login)
 
 This template should help get you started developing with Vue 3 in Vite.
 
